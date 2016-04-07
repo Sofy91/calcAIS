@@ -46,8 +46,7 @@ public class VCalculadora extends JFrame implements
     private int X, Y;
     private boolean operacion;
     
-    private JTextField screen= new JTextField(30);
-    private JTextField resultado= new JTextField(30);
+      private JTextField resultado= new JTextField(30);
     
     /*Constructor de la clase*/
     
